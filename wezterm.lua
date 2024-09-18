@@ -27,8 +27,8 @@ config.window_background_opacity = 0.7
 config.macos_window_background_blur = 10
 
 -- Set window size (width and height in character cells)
-config.initial_cols = 140 -- ширина окна в символах
-config.initial_rows = 40 -- высота окна в символах
+-- config.initial_cols = 140 -- ширина окна в символах
+-- config.initial_rows = 40 -- высота окна в символах
 
 -- Finally, return the configuration to wezterm
 return config
